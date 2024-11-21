@@ -28,8 +28,11 @@ An example would be
 
 
 ./blobs grid.txt 8 8 4
+
 4
+
 $ ./blobs grid.txt 8 8 8
+
 2
 
 This code was part of a homework assignment for the Data Structures and Abstractions available at my school
