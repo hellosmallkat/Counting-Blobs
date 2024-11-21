@@ -11,13 +11,21 @@ Where 2 <= M,N <= 100, 4 or 8 is what you consider a blob, 8 cells or 4 cells. T
 An example would be 
 
 0 0 0 1 1 1 0 0
+
 0 0 0 1 1 1 0 0
+
 0 0 0 1 1 1 0 0
+
 1 1 1 0 0 0 0 0
+
 1 1 1 0 0 0 0 0
+
 0 0 0 1 1 1 0 0
+
 1 1 0 1 1 1 0 0
+
 1 1 0 1 1 1 0 0
+
 
 ./blobs grid.txt 8 8 4
 4
